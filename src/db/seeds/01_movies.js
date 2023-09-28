@@ -88,7 +88,7 @@ exports.seed = function (knex) {
       description:
         "In 1944 Falangist Spain, a girl, fascinated with fairy-tales, is sent along with her pregnant mother to live with her new stepfather, a ruthless captain of the Spanish army. During the night, she meets a fairy who takes her to an old faun in the center of the labyrinth. He tells her she's a princess, but must prove her royalty by surviving three gruesome tasks. If she fails, she will never prove herself to be the true princess and will never see her real father, the king, again...",
       image_url:
-        "https://i0.wp.com/aiptcomics.com/wp-content/uploads/2018/09/1216x1824x2.jpg?w=1400&ssl=1",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Faiptcomics.com%2Fwp-content%2Fuploads%2F2018%2F09%2F1216x1824x2.jpg%3Fw%3D1400%26ssl%3D1&f=1&nofb=1&ipt=54eb0936a153fa18595c4b948a4a0ca515173023dcc53ca250d5b61ddc9d338d&ipo=images",
     },
     {
       title: "Dial M for Murder",
